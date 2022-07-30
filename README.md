@@ -1,5 +1,6 @@
 # MIDS_266_FinalProject
-Transfer Learning with Question Answering Dataasets
+Transfer Learning with Question Answering Datasets
+
 Team: Cynthia Zhu, Fidelia Nawar, Ryan Goding
 
 This Github repository contains our research on transfer learning with question answering datasets. 
